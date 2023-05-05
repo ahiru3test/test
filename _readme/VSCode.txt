@@ -3,6 +3,9 @@ Ctrl+B サイドバー表示       Shift+Ctrl+P コマンドパレット
 Alt+上下 行の移動           Shift+Alt+下 行の複製           Shift+Ctrl+Enter 前行の挿入
 Ctrl+Shift+L 同じ単語を選択
 
-＊設定
+＊インストール・設定
+VSCodeのインストール → Gitのインストール
+拡張機能: Japanese Language Pack for VS Code, Git History
+
 editor.fontFamily 'HackGen Console NF' https://github.com/yuru7/HackGen/tags
 editor.renderWhitespace all
