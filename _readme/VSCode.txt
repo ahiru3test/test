@@ -9,3 +9,4 @@ VSCodeのインストール → Gitのインストール
 
 editor.fontFamily 'HackGen Console NF' https://github.com/yuru7/HackGen/tags
 editor.renderWhitespace all
+editor.tabSize 2
