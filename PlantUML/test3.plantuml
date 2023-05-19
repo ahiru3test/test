@@ -1,0 +1,16 @@
+@startgantt
+'https://qiita.com/asobinin_kinsan/items/e8552dcab508b414a19a
+project starts 2023/6/1
+[Milestone] happens 2023/6/12
+'project ends 2023/6/30
+
+saturday are closed
+sunday are closed
+[TaskA] lasts 7 days
+[TaskB] lasts 4 days
+[TaskC] lasts 5 days
+'ends at [TaskB]'s start
+'[TaskB] starts at [TaskC]'s end
+[TaskA] -> [TaskB]
+[TaskC] -> [TaskB]
+@endgantt

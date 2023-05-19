@@ -1,0 +1,8 @@
+@startgantt
+Project starts the 2023/1/1
+[プロジェクト] lasts 10 days
+[TaskA] lasts 3 days and starts at [プロジェクト]'s start
+[TaskB] lasts 3 days and starts after [TaskA]'s end
+'[TaskC] lasts 4 days and starts at [プロジェクト]'s start + 3 days
+[TaskC] lasts 4 days and starts at [プロジェクト]'s start
+@endgantt

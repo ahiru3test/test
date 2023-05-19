@@ -1,0 +1,8 @@
+@startgantt
+'#命令書:入力文からガントチャートを作成して下さい。#制約条件:重要なキーワードを取り残さない。 #出力形式:PlantUML #入力文: プロジェクト開始は2023/1/1,タスク「TaskA」は工数3日,タスク「TaskB」は工数3日,タスク「TaskC」は工数4日。TaskBはTaskAの後に開始します。
+Project starts the 2023/1/1
+[プロジェクト] lasts 10 days
+[TaskA] lasts 3 days and starts at [プロジェクト]'s start
+[TaskC] lasts 4 days and starts at [プロジェクト]'s start
+[TaskB] lasts 3 days and starts after [TaskC]'s end
+@endgantt
