@@ -1,10 +1,22 @@
+※ローカル環境で動作させる場合はgithubとの連携は不要
+  Zipをダウンロードして開く
+
 ＊ショートカットキー
 Ctrl+B サイドバー表示       Shift+Ctrl+P コマンドパレット
 Alt+上下 行の移動           Shift+Alt+下 行の複製           Shift+Ctrl+Enter 前行の挿入
 Ctrl+Shift+L 同じ単語を選択
 
 ＊インストール・設定
-VSCodeのインストール → Gitのインストール
+・インストール
+VSCodeのインストール (systemインストーラ)
+https://code.visualstudio.com/Download
+
+Gitのインストール
+https://git-scm.com/downloads
+
+手順
+https://literacyboxes.com/git-install-windows/
+
 拡張機能: Japanese Language Pack for VS Code, Git History
 
 editor.fontFamily 'HackGen Console NF' https://github.com/yuru7/HackGen/tags
