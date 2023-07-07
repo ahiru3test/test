@@ -22,7 +22,8 @@ https://www.mathkuro.com/vs-code/git-initial-settings/
 
 editor.fontFamily 'HackGen Console NF' https://github.com/yuru7/HackGen/tags
 editor.fontFamily 'M Plus 1 Code' https://fonts.google.com/specimen/M+PLUS+1+Code?query=M+plus&subset=japanese&noto.script=Jpan
-editor.renderWhitespace all
-editor.tabSize 2
+editor.renderWhitespace   all
+editor.tabSize    2
+Window: Open Folders In New Window    on
 
 ＊プロジェクトのクローン
