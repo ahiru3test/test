@@ -16,6 +16,7 @@ https://git-scm.com/downloads
 
 手順
 https://literacyboxes.com/git-install-windows/
+https://www.mathkuro.com/vs-code/git-initial-settings/
 
 拡張機能: Japanese Language Pack for VS Code, Git History
 
