@@ -14,6 +14,10 @@ https://code.visualstudio.com/Download
 Gitのインストール
 https://git-scm.com/downloads
 
+git config --global user.name "ユーザー名"
+git config --global user.email "メールアドレス"
+git config --list
+
 手順
 https://literacyboxes.com/git-install-windows/
 https://www.mathkuro.com/vs-code/git-initial-settings/
