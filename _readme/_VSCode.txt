@@ -22,8 +22,9 @@ git config --list
 https://literacyboxes.com/git-install-windows/
 https://www.mathkuro.com/vs-code/git-initial-settings/
 
-拡張機能: Japanese Language Pack for VS Code, Git History
+拡張機能: Japanese Language Pack for VS Code, Git History, Code Runner
 https://zenn.dev/umi_mori/articles/dd121abf2a2f77
+
 
 editor.fontFamily 'HackGen Console NF' https://github.com/yuru7/HackGen/tags
 editor.fontFamily 'M Plus 1 Code' https://fonts.google.com/specimen/M+PLUS+1+Code?query=M+plus&subset=japanese&noto.script=Jpan
