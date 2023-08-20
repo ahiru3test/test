@@ -32,6 +32,12 @@ https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 
 https://zenn.dev/umi_mori/articles/dd121abf2a2f77
 
+他
+Python 3.10.6
+https://www.python.org/downloads/release/python-3106/
+Python
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
 
 editor.fontFamily 'HackGen Console NF' https://github.com/yuru7/HackGen/tags
 editor.fontFamily 'M Plus 1 Code' https://fonts.google.com/specimen/M+PLUS+1+Code?query=M+plus&subset=japanese&noto.script=Jpan
