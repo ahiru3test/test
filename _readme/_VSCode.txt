@@ -29,6 +29,8 @@ Git History
 https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
 Code Runner
 https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+PlantUML ALT+Dで表示
+https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml
 
 https://zenn.dev/umi_mori/articles/dd121abf2a2f77
 
