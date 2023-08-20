@@ -22,7 +22,14 @@ git config --list
 https://literacyboxes.com/git-install-windows/
 https://www.mathkuro.com/vs-code/git-initial-settings/
 
-拡張機能: Japanese Language Pack for VS Code, Git History, Code Runner
+拡張機能: 
+Japanese Language Pack for VS Code
+https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja
+Git History
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+Code Runner
+https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+
 https://zenn.dev/umi_mori/articles/dd121abf2a2f77
 
 
