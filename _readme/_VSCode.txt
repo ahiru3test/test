@@ -46,5 +46,6 @@ editor.fontFamily 'M Plus 1 Code' https://fonts.google.com/specimen/M+PLUS+1+Cod
 editor.renderWhitespace   all
 editor.tabSize    2
 Window: Open Folders In New Window    on
+Files: Auto Guess Encoding    true
 
 ＊プロジェクトのクローン
