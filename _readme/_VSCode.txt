@@ -11,18 +11,18 @@ Ctrl+Shift+L 同じ単語を選択
 VSCodeのインストール (systemインストーラ)
 https://code.visualstudio.com/Download
 
-Gitのインストール
+・Gitのインストール
 https://git-scm.com/downloads
 
 git config --global user.name "ユーザー名"
 git config --global user.email "メールアドレス"
 git config --list
 
-手順
+・手順
 https://literacyboxes.com/git-install-windows/
 https://www.mathkuro.com/vs-code/git-initial-settings/
 
-拡張機能: 
+＊拡張機能: 
 Japanese Language Pack for VS Code
 https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja
 Git History
@@ -32,9 +32,7 @@ https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 PlantUML ALT+Dで表示
 https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml
 
-https://zenn.dev/umi_mori/articles/dd121abf2a2f77
-
-他
+＊他
 Python 3.10.6
 https://www.python.org/downloads/release/python-3106/
 Python
@@ -49,3 +47,32 @@ Window: Open Folders In New Window    on
 Files: Auto Guess Encoding    true
 
 ＊プロジェクトのクローン
+
+
+＊その他の拡張機能
+https://zenn.dev/umi_mori/articles/dd121abf2a2f77
+
+Prettier - Code Formatter
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+Prettier設定
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "quoteProps": "as-needed",
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "always",
+  "filepath": "none",
+  "requirePragma": false,
+  "insertPragma": false,
+  "proseWrap": "preserve",
+  "htmlWhitespaceSensitivity": "css",
+  "vueIndentScriptAndStyle": false,
+  "endOfLine": "auto",
+}
