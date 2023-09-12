@@ -32,19 +32,38 @@ https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 PlantUML ALT+Dで表示
 https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml
 
-＊他
+＊Python
 Python 3.10.6
 https://www.python.org/downloads/release/python-3106/
 Python
 https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-
+＊設定 settings.json
 editor.fontFamily 'HackGen Console NF' https://github.com/yuru7/HackGen/tags
-editor.fontFamily 'M Plus 1 Code' https://fonts.google.com/specimen/M+PLUS+1+Code?query=M+plus&subset=japanese&noto.script=Jpan
+// editor.fontFamily 'M Plus 1 Code' https://fonts.google.com/specimen/M+PLUS+1+Code?query=M+plus&subset=japanese&noto.script=Jpan
 editor.renderWhitespace   all
 editor.tabSize    2
 Window: Open Folders In New Window    on
 Files: Auto Guess Encoding    true
+
+{
+    "editor.fontFamily": "'HackGen Console NF', Consolas, 'Courier New', monospace",
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "window.openFoldersInNewWindow": "on",
+    "git.autofetch": true,
+    "files.autoGuessEncoding": true,
+    "terminal.integrated.shellArgs.windows": [
+        "-NoExit",
+        "chcp",
+        "65001"
+        ],
+}
+
+
+＊文字コード
+Shift-JIS: 932、UTF-8: 65001
+chcp 65001
 
 ＊プロジェクトのクローン
 
