@@ -7,7 +7,7 @@ Alt+上下 行の移動           Shift+Alt+下 行の複製           Shift+Ctr
 Ctrl+Shift+L 同じ単語を選択
 
 ＊インストール・設定
-・インストール
+・インストール ※VSCodeから
 VSCodeのインストール (systemインストーラ)
 https://code.visualstudio.com/Download
 
